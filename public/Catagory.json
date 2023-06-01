@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "categoryName": "Marketing",
+      "logo": "https://img.freepik.com/free-vector/marketing-logo-template-with-arrow_23-2149105274.jpg?size=626&ext=jpg&ga=GA1.2.59737455.1679068540&semt=ais",
+      "jobsAvailable": 110
+    },
+    {
+      "id": 2,
+      "categoryName": "Design",
+      "logo": "https://img.freepik.com/free-vector/abstract-logo-template_23-2147503137.jpg?w=740&t=st=1681071472~exp=1681072072~hmac=7c81da91d3f9718ddefb18778f174878f515eb9e1eabd166d282aa97634575e5",
+      "jobsAvailable": 175
+    },
+    {
+      "id": 3,
+      "categoryName": "Engineering",
+      "logo": "https://img.freepik.com/premium-vector/technology-gear-concept-business-logo-template-design-cogwheel-mechanic-sign-computer-network-seo-icon-search-engine-optimization-line-style-graphic-design-element-vector-illustration_775815-29.jpg?w=740",
+      "jobsAvailable": 215
+    },
+    {
+      "id": 4,
+      "categoryName": "IT",
+      "logo": "https://img.freepik.com/free-vector/tech-computer-logo-template_23-2149204144.jpg?w=740&t=st=1681071328~exp=1681071928~hmac=061783f3657a792d30ed2409abfdf5543fef031dd91708dcfd6d101a2ca6f029",
+      "jobsAvailable": 206
+    }
+  ]
